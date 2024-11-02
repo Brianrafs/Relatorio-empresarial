@@ -2,7 +2,7 @@
 
 **Equipe:** Amanda Cruz, Brian Rafael, George Lima  
 **Data:** 02/11/2024  
-**Tempo total gasto(valor aproximado):** Aproximadamente 45 minutos.
+**Tempo total gasto(valor aproximado):** Aproximadamente 1 hora e 43 minutos.
 
 ---
 
