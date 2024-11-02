@@ -1,8 +1,8 @@
 # Relatório de Análise de Dados - Departamento de Vendas
 
-**Equipe:** [Nome da Equipe]  
-**Data:** 04/10/2024  
-**Tempo total gasto(valor aproximado):** [Tempo estimado]
+**Equipe:** Amanda Cruz, Brian Rafael, George Lima  
+**Data:** 02/11/2024  
+**Tempo total gasto(valor aproximado):** Aproximadamente 45 minutos.
 
 ---
 
@@ -15,40 +15,40 @@ Este relatório apresenta as respostas para as questões de negócios solicitada
 ## 2. Respostas para as Perguntas
 
 1. **Quem são os meus 10 maiores clientes, em termos de vendas ($)?**
-   - **Resposta:** [Resultado da análise]
-   - **Gráfico/Visualização:** ![Gráfico Top 10 Clientes](#)
+
+   ![Gráfico Top 10 Clientes](./screenshots/1.png)
 
 2. **Quais os três maiores países, em termos de vendas ($)?**
-   - **Resposta:** [Resultado da análise]
-   - **Gráfico/Visualização:** ![Gráfico Top 3 Países](#)
+   
+   ![Gráfico Top 3 Países](./screenshots/2.png)
 
 3. **Quais as categorias de produtos que geram maior faturamento (vendas $) no Brasil?**
-   - **Resposta:** [Resultado da análise]
-   - **Gráfico/Visualização:** ![Gráfico Faturamento Brasil](#)
+   
+   ![Gráfico Faturamento Brasil](./screenshots/3.png)
 
 4. **Qual a despesa com frete envolvendo cada transportadora?**
-   - **Resposta:** [Resultado da análise]
-   - **Gráfico/Visualização:** ![Gráfico Despesa Frete](#)
+   
+   ![Gráfico Despesa Frete](./screenshots/4.png)
 
 5. **Quais são os principais clientes (vendas $) do segmento “Calçados Masculinos” (Men’s Footwear) na Alemanha?**
-   - **Resposta:** [Resultado da análise]
-   - **Gráfico/Visualização:** ![Gráfico Clientes Footwear Alemanha](#)
+   
+   ![Gráfico Clientes Footwear Alemanha](./screenshots/5.png)
 
 6. **Quais os vendedores que mais dão descontos nos Estados Unidos?**
-   - **Resposta:** [Resultado da análise]
-   - **Gráfico/Visualização:** ![Gráfico Descontos EUA](#)
+   
+   ![Gráfico Descontos EUA](./screenshots/6.png)
 
 7. **Quais os fornecedores que dão a maior margem de lucro ($) no segmento de “Vestuário Feminino” (Womenswear)?**
-   - **Resposta:** [Resultado da análise]
-   - **Gráfico/Visualização:** ![Gráfico Margem Lucro Fornecedores](#)
+   
+   ![Gráfico Margem Lucro Fornecedores](./screenshots/7.png)
 
 8. **Quanto foi vendido ($) no ano de 2009? O faturamento entre 2009 e 2012 mostra crescimento, estabilidade ou declínio?**
-   - **Resposta:** [Resultado da análise]
-   - **Gráfico/Visualização:** ![Gráfico Vendas Anuais](#)
+   
+   ![Gráfico Vendas Anuais](./screenshots/8.png)
 
 9. **Quais os países com maior quantidade de pedidos (qtde total de pedidos)?**
-   - **Resposta:** [Resultado da análise]
-   - **Gráfico/Visualização:** ![Gráfico Quantidade Pedidos por País](#)
+   
+   ![Gráfico Quantidade Pedidos por País](./screenshots/10.png)
 
 ---
 
@@ -82,7 +82,7 @@ Este relatório apresenta as respostas para as questões de negócios solicitada
 | Implementação da Solução            | 1 hora              |
 | Análise e Geração de Respostas      | 5 minutos           |
 | Criação das Visualizações           | 3 minutos           |
-| Revisão e Preparação da Apresentação| [Tempo]             |
-| **Total**                           | [Tempo Total]       |
+| Revisão e Preparação da Apresentação| 20 minutos          |
+| **Total**                           | 1 hora e 43 minutos |
 
 ---
